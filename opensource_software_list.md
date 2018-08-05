@@ -1,1 +1,7 @@
-- Exuberant Ctags  - http://ctags.sourceforge.net/
+- Exuberant Ctags
+http://ctags.sourceforge.net/
+
+- Zypper
+
+https://github.com/openSUSE/libzypp
+https://github.com/openSUSE/zypper
