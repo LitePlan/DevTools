@@ -1,5 +1,11 @@
-## .vimrc - configurations for vim bundles
+## .vimrc 
 
-## opensource_software_list.md - opensource software list
+- configurations for vim bundles
 
-## vim_colorscheme.md - vim color scheme
+## opensource_software_list.md 
+
+- opensource software list
+
+## vim_colorscheme.md 
+
+- vim color scheme
