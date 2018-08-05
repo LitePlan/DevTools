@@ -1,1 +1,1 @@
-* Exuberant Ctags  - http://ctags.sourceforge.net/
+- Exuberant Ctags  - http://ctags.sourceforge.net/
